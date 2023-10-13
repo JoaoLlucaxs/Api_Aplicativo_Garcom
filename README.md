@@ -10,12 +10,15 @@ O projeto possui uma aplicação mobile e web que se complementam, onde o mobile
 
 ## Layout
 
-- Layout da aplicação web e mobile no [**Figma**](https://www.figma.com/file/Ivct0qKlCFhWIIPrC5yHBF/WAITERAPP?node-id=216%3A1787&t=4ByEfZEfoA5QrxMn-0) 🎨
+- Layout da aplicação 🎨
 
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/87788683/203629300-9254d531-ac39-44d8-85e4-a63635d59e42.png" alt="waiter app capa" />
 </div>
-
+<div display="flex"> 
+<img width="350px" src="https://github.com/JoaoLlucaxs/Sistema-Garcom-In-Node/assets/92184255/b5b2eab9-ddf5-43e4-8c44-c5a50ce72f30"/>
+<img width="350px" src="https://github.com/JoaoLlucaxs/Sistema-Garcom-In-Node/assets/92184255/fb5d8358-6b73-46c3-a915-b89418477b1a"/>
+</div>
 ## Tecnologias
 Foram usadas as tecnologias e ferramentas abaixo:
 
