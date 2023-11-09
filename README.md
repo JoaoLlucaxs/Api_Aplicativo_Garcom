@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img width="100" src="https://github.com/JoaoLlucaxs/Sistema-Garcom-In-React/assets/92184255/f2e847e7-d734-4206-a9ee-ab3338d818e0" />
+  Assista minha explicação : https://drive.google.com/file/d/1_wjXfLzdktx9Mj39tzdw2Y0eiws6jIpB/view?usp=drivesdk
 </div>
 
 ## Sobre
