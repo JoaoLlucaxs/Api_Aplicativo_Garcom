@@ -4,9 +4,9 @@
 
 ## Sobre
 
-Waiter app é uma aplicação desenvolvida para ajudar no fluxo de pedidos de um restaurante. Por intermédio dele, os garçons e os responsáveis no preparado do pedido podem ter uma melhor analise, preparação e organização no ambiente de trabalho.
+Waiter app is an application developed to help with a restaurant's order flow. Through it, waiters and those responsible for preparing the order can have better analysis, preparation and organization in the work environment.
 
-O projeto possui uma aplicação mobile e web que se complementam, onde o mobile serve para os garçons veem o menu de produtos e criarem os pedidos dos clientes; enquanto q a versão web conta com um dashboard dividido em 3 estágios de produção de acordo com a preparação do pedido, sendo eles na fila de espera, em produção e finalizado ESTE REPOSITÓRIO CONSTA APENAS A API DO SISTEMA o Backend.
+The project has a mobile and web application that complement each other, where the mobile is used for waiters to view the product menu and create customer orders; while the web version has a dashboard divided into 3 stages of production according to the preparation of the order, which are in the queue, in production and finalized THIS REPOSITORY ONLY CONSISTS OF THE SYSTEM API or Backend.
 
 ## Layout
 
